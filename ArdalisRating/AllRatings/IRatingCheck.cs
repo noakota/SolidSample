@@ -3,8 +3,9 @@
 
 namespace ArdalisRating.AllRatings
 {
+
     public interface IRatingCheck
     {
-        decimal Rate(Policy policy);
+        decimal Rate();
     }
 }

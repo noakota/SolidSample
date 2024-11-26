@@ -12,11 +12,21 @@ namespace ArdalisRating
     /// </summary>
     public class RatingEngine
     {
+      /*
+        SRP-separating switch& cases to 3 classes, creating a class for loading JSON files, creating a class for message (i will create a class for exceptions and its will be converted to exceptions. )
+        OCP- the logic of the cases is in different classes, i add interface that now you can add another cases withour chainging the code.
+        DIP- 
+        LSP-
+        SIP- 
+        FACTRY METHOD- i use factory to create the right instance
+       */
+
         Printer printer = new();
+
+        
 
         LoadingFiles loadingPolicyName = new();
 
-        FactoryOfRatingTypes factoryRatings;
         public decimal Rating { get; set; }
         public void Rate()
         {
@@ -26,7 +36,9 @@ namespace ArdalisRating
 
             var policy = loadingPolicyName.LoadingPolicyFromFile("policy.json");
 
-          factoryRatings(policy)
+            RatingCheckAbstractClass ratingCheck =FactoryOfRatingTypes.RatingCheck(policy);
+
+            Rating = ratingCheck.Rate();
 
             Console.WriteLine("Rating completed.");
         }
