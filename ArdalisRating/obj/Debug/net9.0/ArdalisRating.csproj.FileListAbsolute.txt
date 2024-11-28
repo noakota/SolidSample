@@ -1,0 +1,6 @@
+C:\Users\noakota\source\repos\SolidSample\ArdalisRating\obj\Debug\net9.0\ArdalisRating.csproj.AssemblyReference.cache
+C:\Users\noakota\source\repos\SolidSample\ArdalisRating\obj\Debug\net9.0\ArdalisRating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noakota\source\repos\SolidSample\ArdalisRating\obj\Debug\net9.0\ArdalisRating.AssemblyInfoInputs.cache
+C:\Users\noakota\source\repos\SolidSample\ArdalisRating\obj\Debug\net9.0\ArdalisRating.AssemblyInfo.cs
+C:\Users\noakota\source\repos\SolidSample\ArdalisRating\obj\Debug\net9.0\ArdalisRating.csproj.CoreCompileInputs.cache
+C:\Users\noakota\source\repos\SolidSample\ArdalisRating\obj\Debug\net9.0\ArdalisRating.sourcelink.json
