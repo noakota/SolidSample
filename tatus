@@ -1,0 +1,103 @@
+[33mcommit ba33f1760187cf476962370d6ca181fb53fc9faf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: noa kota <noakota@etoro.com>
+Date:   Tue Nov 26 12:50:29 2024 +0200
+
+    finish refactoring the code with ocp, srp, factory method
+
+[33mcommit d0c51c9b8d32954fb25fa35acf79c42dc7c28938[m
+Author: noa kota <noakota@etoro.com>
+Date:   Tue Nov 26 09:43:24 2024 +0200
+
+    first commit, starting SRP & FACTORI
+
+[33mcommit d3175a13f8fd6a5f408c6c20c0d489234766fca7[m
+Merge: add7240 041e5ee
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Tue Jan 23 09:25:21 2024 -0500
+
+    Merge pull request #11 from margohpolo/upgrade-newtonsoftjson
+
+[33mcommit 041e5eed6ce438eb875e4f6cd2e264c58767557d[m
+Author: margohpolo <mark.g.goh@gmail.com>
+Date:   Tue Jan 23 21:37:57 2024 +0800
+
+    upgrade NewtonsoftJson to v13 (vulnerability in v12)
+
+[33mcommit add7240a56d821133ec195d04dbd0111c1771258[m
+Merge: 3d12e9e 35458f3
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Fri Dec 2 19:06:47 2022 -0500
+
+    Merge pull request #7 from pettersensz/szp/updateDotNetVersion
+
+[33mcommit 35458f38c33c408fb4245ea338ad149a1b6976e4[m
+Author: Sigmund Pettersen <pettersen.sigmund@gmail.com>
+Date:   Fri Dec 2 13:30:13 2022 +0100
+
+    Update from .net core 2.2. to .net 6.0
+
+[33mcommit 3d12e9e66c4ef4f268e7144ec7b375ac1ddfce26[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Mon Oct 10 11:06:55 2022 -0400
+
+    Update README.md
+
+[33mcommit 608586093d946803d8411452efcd9e4917eaee3f[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Wed Apr 3 11:00:57 2019 -0400
+
+    Update README.md
+
+[33mcommit 08ba485acd4fddbfab25d7113669bda32a0311f8[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Wed Apr 3 11:00:00 2019 -0400
+
+    Update README.md
+
+[33mcommit 937aea7a4f7f16aed07398a87d348efb696dbbf6[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Wed Apr 3 10:59:01 2019 -0400
+
+    Update README.md
+
+[33mcommit 31ce293d0560facedfbae0e12c383f94e61b277c[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Wed Apr 3 10:58:01 2019 -0400
+
+    Update README.md
+
+[33mcommit 2ef1e21c9f792c5a14de88860af415c33023c908[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Wed Apr 3 10:41:03 2019 -0400
+
+    Update README.md
+
+[33mcommit 124c37147237a742f8b9f4fc230ddcbfca4e5498[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Mon Feb 11 09:52:49 2019 -0500
+
+    Formatting
+
+[33mcommit 3fa793dd8cc94b6cd05f1e61e8b2f69a9dd852a9[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Mon Feb 11 09:47:04 2019 -0500
+
+    Adding test project and 2 tests
+
+[33mcommit 17813628ad9d3f7c8bbf3df1fafaba042f0b38e6[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Sun Feb 10 15:14:54 2019 -0500
+
+    Minor formatting
+
+[33mcommit 2fef634477decc42d7abf54f9591eef1ca9dddd1[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Sun Feb 10 11:45:57 2019 -0500
+
+    Initial version.
+
+[33mcommit 01ad269e2849646bb04bbb37a7af7d1c840b4ecf[m
+Author: Steve Smith <steve@kentsmiths.com>
+Date:   Sun Feb 10 10:46:54 2019 -0500
+
+    Initial commit
