@@ -9,6 +9,7 @@ namespace ArdalisRating.AllRatings
         {
         }
 
+
         public override decimal Rate()
         {
 
